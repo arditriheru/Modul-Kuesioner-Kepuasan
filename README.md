@@ -1,2 +1,5 @@
 # kuesioner
-Sistem Informasi Kuesioner Kepuasan Pasien
+Sistem Informasi Manajemen Rumah Sakit SIMETRIS.
+Modul Sistem E-Kuesioner Kepuasan Pelayanan.
+Pemrograman PHP Native.
+
